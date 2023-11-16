@@ -1,1 +1,1 @@
-# AlgoPractice
+# AlgoPractice This gitHub repository will be used for algorithim practice projects from CodeWars, LeetCode, and Hackerrank. There will be an individiual folder for each.
